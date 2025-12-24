@@ -1,0 +1,9 @@
+{
+  "name": "Verso AI",
+  "description": "基于 Gemini 的智能研究侧边栏，提供深度摘要、证据捕获与知识提取功能。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
